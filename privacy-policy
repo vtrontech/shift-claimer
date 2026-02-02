@@ -1,0 +1,30 @@
+Privacy Policy for TeamWork Shift Claimer
+
+Last updated: February 2026
+
+OVERVIEW
+TeamWork Shift Claimer is a browser extension that automatically claims available shifts on TeamWork SwapBoard. This privacy policy explains how we handle user information.
+
+DATA COLLECTION
+This extension does NOT collect, store, transmit, or share any personal data. All extension settings and preferences are stored locally in your browser using Chrome's storage API and never leave your device.
+
+INFORMATION STORED LOCALLY
+The following information is stored locally on your device only:
+- Extension on/off status
+- Selected shift type preferences
+- Refresh counter and run time statistics
+- Rest period settings
+
+This data is used solely to operate the extension and is never transmitted to any external servers.
+
+WEBSITE ACCESS
+This extension only accesses tmwork.net to perform its intended function of claiming shifts. It does not access any other websites or collect browsing history.
+
+THIRD PARTIES
+We do not share any information with third parties because we do not collect any information.
+
+CHANGES TO THIS POLICY
+We may update this privacy policy from time to time. Any changes will be reflected in the "Last updated" date.
+
+CONTACT
+If you have questions about this privacy policy, please open an issue on our GitHub repository.
